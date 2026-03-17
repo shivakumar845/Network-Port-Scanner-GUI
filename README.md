@@ -15,10 +15,6 @@ Python 3.7 or newer
 Tkinter (included in the standard Python distribution; on Debian/Ubuntu install python3-tk)
 No third-party packages are required.
 
-Installation
-git clone https://github.com/techtrainer20/nmap_portscan_gui.git
-cd nmap_portscan_gui
-Usage
 python portscanergui.py
 Enter the Target – an IP address (e.g. 192.168.1.1) or hostname (e.g. scanme.nmap.org).
 Set the Start Port and End Port (defaults: 1 – 1024).
